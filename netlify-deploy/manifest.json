@@ -1,0 +1,24 @@
+{
+  "name": "EarnIt — Where Kids Learn to Earn",
+  "short_name": "EarnIt",
+  "description": "Teach kids that money is earned, not given.",
+  "start_url": "/app",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#ff8c42",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
